@@ -1,6 +1,6 @@
 // Copyright 2022 NNTU-CS
-#ifndef TPQUEUE_H
-#define TPQUEUE_H
+#ifndef INCLUDE_TPQUEUE_H
+#define INCLUDE_TPQUEUE_H
 
 template<typename T>
 class TPQueue {
@@ -89,4 +89,4 @@ public:
     }
 };
 
-#endif // TPQUEUE_H
+#endif // INCLUDE_TPQUEUE_H
